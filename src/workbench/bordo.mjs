@@ -22,15 +22,13 @@ export default syntax => ({
     // ---------------------------
     // Activity Bar
     // ---------------------------
-    "activityBar.background": "#322a2d",
+    "activityBar.background": "#2c2528",
     "activityBar.dropBackground": "#bb778f65",
     "activityBar.border": "#1f191b",
     "activityBar.foreground": "#997582",
     "activityBar.inactiveForeground": "#99758277",
     "activityBarBadge.background": "#f18eb0",
     "activityBarBadge.foreground": "#1f191b",
-    "activityBar.activeBackground": "#f18eb033",
-    "activityBar.activeBorder": "#f18eb0",
     // ---------------------------
     // Sidebar
     // ---------------------------
