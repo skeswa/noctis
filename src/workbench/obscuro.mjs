@@ -1,5 +1,5 @@
 export default (syntax) => ({
-  name: "Noctis Obscuro",
+  name: "@skeswa's Noctis Obscuro",
   type: "dark",
   colors: {
     // ---------------------------
