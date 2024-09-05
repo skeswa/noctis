@@ -3,7 +3,7 @@
     "displayName": "@skeswa's Noctis",
     "description": "Noctis is a collection of light & dark themes with a well balanced blend of warm and cold colors",
     "version": "10.44.0",
-    "publisher": "liviuschera",
+    "publisher": "skeswa",
     "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.43.0"
@@ -18,7 +18,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/liviuschera/noctis"
+        "url": "https://github.com/skeswa/noctis"
     },
     "scripts": {
         "build": "node src/build.mjs",
